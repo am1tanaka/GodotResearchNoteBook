@@ -1,0 +1,5 @@
+title: [Godot Engine研究ノート サポートページ]
+description: [【Godot 4.2.x】GDScriptの基本的なあれこれ編]
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
