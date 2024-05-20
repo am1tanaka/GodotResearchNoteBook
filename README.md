@@ -1,3 +1,6 @@
+## 【Godot 4.2.x】GDScriptの基本的なあれこれ編
+### 田中　雄(著)
+
 ご意見、ご要望、間違いの報告などは、[Issues](https://github.com/am1tanaka/GodotResearchNoteBook/issues)にお願いします。
 
 ## 正誤表
